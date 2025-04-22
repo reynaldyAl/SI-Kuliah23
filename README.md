@@ -1,0 +1,2 @@
+# SI-Kuliah23
+Repo untuk mengakses dan menggunakan COPILOT, BAHAN AJAR DAN MATERI PERKULIAHAN SISTEM INFORMASI UH
